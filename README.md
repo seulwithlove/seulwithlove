@@ -1,5 +1,6 @@
  - 🤍 Hi, I’m @seulwithlove 
  - 🤍 I’m interested in all about love
- - 🤍 and currently learning all about AI
+ - 🤍 and ready to start La Piscine of 42Seoul
+ - 🤍 Someday I will do something nice with AI
  - 🤍 Have a nice day!
  - 🤍 with Love, Love, Love
