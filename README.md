@@ -4,4 +4,4 @@
  - 🤍 Someday I will do something nice with AI
  - 🤍 with Love, Love, Love
 
-<img src="https://github.com/{USER_NAME}/{USER_NAME}/blob/output/github-contribution-grid-snake.svg"/>
+![snake gif](https://github.com/{USER_NAME}/{USER_NAME}/blob/output/github-contribution-grid-snake.gif)
