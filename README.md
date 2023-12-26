@@ -4,4 +4,4 @@
  - 🤍 Someday I will do something nice with AI
  - 🤍 with Love, Love, Love
 
-![Snake animation](https://github.com/seulwithlove/seulwithlove/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seulwithlove/seulwithlove/blob/output/ocean.gif)
