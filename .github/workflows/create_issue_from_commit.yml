@@ -9,9 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Create and Close Issue
-        uses: actions/github-script@v3
+        uses: actions/github-script@v7.0.1
         with:
-          github-token: ${{secrets.GITHUB_TOKEN}}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             // 1. 첫 번째 커밋 정보 추출
             const commit = context.payload.commits[0];
