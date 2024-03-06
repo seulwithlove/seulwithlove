@@ -2,16 +2,16 @@ name: Create and Close Issue From Commit
 on:  
   push:
     branches:
-      - main  # 원하는 다른 브랜치로 변경 가능
+      - main
 
 jobs:
   create_and_close_issue:
     runs-on: ubuntu-latest
     steps:
       - name: Create and Close Issue
-        uses: actions/checkout@v4
+        uses: actions/github-script@v3
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
             // 1. 첫 번째 커밋 정보 추출
             const commit = context.payload.commits[0];
